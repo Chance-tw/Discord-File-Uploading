@@ -1,3 +1,5 @@
+//May be an issue of only able to read in a file as big as the amount of memory free on a system, but that is untested
+
 Save bot token to DISCORD_TOKEN env var with 'export DISCORD_TOKEN="token"'
 
 Save discord channel ID to DISCORD_CHANNEL env var with 'export DISCORD_CHANNEL="uint64 channel id"'
